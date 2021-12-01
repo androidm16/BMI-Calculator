@@ -1,0 +1,34 @@
+.Outer{
+    background-color: chartreuse;
+}
+.header{
+    padding-top: 15%;
+    width: 50%;
+    margin: auto;
+}
+.h1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    border: 2px solid;
+    border-radius: 50px;
+    background-color: bisque;
+}
+.container{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    border: solid 2px;
+    border-radius: 50px;
+    background-color: bisque;
+}
+.button1{
+    height: 50px;
+    width: 50%;
+    border-radius: 50px;
+}
+.button2{
+    height: 30px;
+    width: 20%;
+    border-radius: 50px;
+}
